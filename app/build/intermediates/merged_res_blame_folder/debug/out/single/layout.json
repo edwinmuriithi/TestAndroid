@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_search.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_movie_search.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_welcome.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_movies_list.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/home_movies_list.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movie_cast.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/fragment_movie_cast.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_details.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main2.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_cast.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_movie_cast.xml"
+    }
+]

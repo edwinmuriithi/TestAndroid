@@ -1,0 +1,88 @@
+com/moringaschool/android_ip_1/Network/OnDetailsApiListener.java
+ com.moringaschool.android_ip_1.Network.OnDetailsApiListener
+com/moringaschool/android_ip_1/Models/SearchEndPoint/Name.java
+ com.moringaschool.android_ip_1.Models.SearchEndPoint.Name
+com/moringaschool/android_ip_1/UI/WelcomeActivity.java
+ com.moringaschool.android_ip_1.UI.WelcomeActivity
+ com.moringaschool.android_ip_1.UI.WelcomeActivity$1
+com/moringaschool/android_ip_1/Models/SearchEndPoint/Title.java
+ com.moringaschool.android_ip_1.Models.SearchEndPoint.Title
+com/moringaschool/android_ip_1/databinding/ActivityWelcomeBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivityWelcomeBinding
+com/moringaschool/android_ip_1/databinding/ActivityLoginBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivityLoginBinding
+com/moringaschool/android_ip_1/databinding/ActivitySignUpBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivitySignUpBinding
+com/moringaschool/android_ip_1/UI/MainActivity2.java
+ com.moringaschool.android_ip_1.UI.MainActivity2
+ com.moringaschool.android_ip_1.UI.MainActivity2$1
+com/moringaschool/android_ip_1/UI/SignUpActivity.java
+ com.moringaschool.android_ip_1.UI.SignUpActivity
+ com.moringaschool.android_ip_1.UI.SignUpActivity$1
+ com.moringaschool.android_ip_1.UI.SignUpActivity$2
+com/moringaschool/android_ip_1/Adapter/MovieCastPagerAdapter.java
+ com.moringaschool.android_ip_1.Adapter.MovieCastPagerAdapter
+com/moringaschool/android_ip_1/UI/MovieSearchActivity.java
+ com.moringaschool.android_ip_1.UI.MovieSearchActivity
+ com.moringaschool.android_ip_1.UI.MovieSearchActivity$1
+ com.moringaschool.android_ip_1.UI.MovieSearchActivity$2
+ com.moringaschool.android_ip_1.UI.MovieSearchActivity$3
+com/moringaschool/android_ip_1/databinding/ActivityMovieSearchBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivityMovieSearchBinding
+com/moringaschool/android_ip_1/Adapter/ListAdapter.java
+ com.moringaschool.android_ip_1.Adapter.ListAdapter
+com/moringaschool/android_ip_1/Network/OnSearchApiListener.java
+ com.moringaschool.android_ip_1.Network.OnSearchApiListener
+com/moringaschool/android_ip_1/Network/GetMovies.java
+ com.moringaschool.android_ip_1.Network.GetMovies
+ com.moringaschool.android_ip_1.Network.GetMovies$GetMovieDetails
+com/moringaschool/android_ip_1/databinding/ActivityMain2Binding.java
+ com.moringaschool.android_ip_1.databinding.ActivityMain2Binding
+com/moringaschool/android_ip_1/UI/MovieCastFragment.java
+ com.moringaschool.android_ip_1.UI.MovieCastFragment
+com/moringaschool/android_ip_1/Network/RequestManager.java
+ com.moringaschool.android_ip_1.Network.RequestManager
+ com.moringaschool.android_ip_1.Network.RequestManager$1
+ com.moringaschool.android_ip_1.Network.RequestManager$2
+com/moringaschool/android_ip_1/Models/SearchEndPoint/Company.java
+ com.moringaschool.android_ip_1.Models.SearchEndPoint.Company
+com/moringaschool/android_ip_1/databinding/HomeMoviesListBinding.java
+ com.moringaschool.android_ip_1.databinding.HomeMoviesListBinding
+com/moringaschool/android_ip_1/Constants.java
+ com.moringaschool.android_ip_1.Constants
+com/moringaschool/android_ip_1/BuildConfig.java
+ com.moringaschool.android_ip_1.BuildConfig
+com/moringaschool/android_ip_1/Adapter/HomeRecyclerAdapter.java
+ com.moringaschool.android_ip_1.Adapter.HomeRecyclerAdapter
+ com.moringaschool.android_ip_1.Adapter.HomeRecyclerAdapter$1
+ com.moringaschool.android_ip_1.Adapter.HomeViewHolder
+com/moringaschool/android_ip_1/UI/LoginActivity.java
+ com.moringaschool.android_ip_1.UI.LoginActivity
+ com.moringaschool.android_ip_1.UI.LoginActivity$1
+ com.moringaschool.android_ip_1.UI.LoginActivity$2
+com/moringaschool/android_ip_1/UI/OnMovieClickListener.java
+ com.moringaschool.android_ip_1.UI.OnMovieClickListener
+com/moringaschool/android_ip_1/databinding/ActivityMovieCastBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivityMovieCastBinding
+com/moringaschool/android_ip_1/Models/FilmEndPoint/Trailer.java
+ com.moringaschool.android_ip_1.Models.FilmEndPoint.Trailer
+com/moringaschool/android_ip_1/UI/MovieCastActivity.java
+ com.moringaschool.android_ip_1.UI.MovieCastActivity
+com/moringaschool/android_ip_1/UI/DetailsActivity.java
+ com.moringaschool.android_ip_1.UI.DetailsActivity
+ com.moringaschool.android_ip_1.UI.DetailsActivity$1
+ com.moringaschool.android_ip_1.UI.DetailsActivity$2
+ com.moringaschool.android_ip_1.UI.DetailsActivity$3
+ com.moringaschool.android_ip_1.UI.DetailsActivity$4
+com/moringaschool/android_ip_1/Models/FilmEndPoint/DetailApiResponse.java
+ com.moringaschool.android_ip_1.Models.FilmEndPoint.DetailApiResponse
+com/moringaschool/android_ip_1/Models/SearchEndPoint/SearchApiResponse.java
+ com.moringaschool.android_ip_1.Models.SearchEndPoint.SearchApiResponse
+com/moringaschool/android_ip_1/databinding/ActivityDetailsBinding.java
+ com.moringaschool.android_ip_1.databinding.ActivityDetailsBinding
+com/moringaschool/android_ip_1/databinding/FragmentMovieCastBinding.java
+ com.moringaschool.android_ip_1.databinding.FragmentMovieCastBinding
+com/moringaschool/android_ip_1/Models/SearchEndPoint/SearchArrayObject.java
+ com.moringaschool.android_ip_1.Models.SearchEndPoint.SearchArrayObject
+com/moringaschool/android_ip_1/Models/FilmEndPoint/Cast.java
+ com.moringaschool.android_ip_1.Models.FilmEndPoint.Cast
