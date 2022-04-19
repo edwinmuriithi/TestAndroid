@@ -119,7 +119,7 @@ public class MovieSearchActivity extends AppCompatActivity implements OnMovieCli
 
             if(response==null){ //If there are no results.
 
-                Toast.makeText(MovieSearchActivity.this, "You caught us. No data available", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MovieSearchActivity.this, "Results Unavailable at the moment... Come back later", Toast.LENGTH_SHORT).show();
 
                 return; //to get out of this.
 
