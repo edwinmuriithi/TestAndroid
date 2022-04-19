@@ -16,7 +16,7 @@ public interface GetMovies {
 
             "Accept: application/json",
             "x-rapidapi-host:imdb-internet-movie-database-unofficial.p.rapidapi.com",
-            "x-rapidapi-key:7701f21098msh24137e68c02d540p16282bjsn2f745c53ff8b"
+            "x-rapidapi-key:7701f21098msh24137e68c02d540p16282bjsn2f745c53ff8"
 
     })
 
@@ -34,7 +34,7 @@ public interface GetMovies {
         @Headers({
                 "Accept: application/json",
                 "x-rapidapi-host:imdb-internet-movie-database-unofficial.p.rapidapi.com",
-                "x-rapidapi-key:7701f21098msh24137e68c02d540p16282bjsn2f745c53ff8b"
+                "x-rapidapi-key:7701f21098msh24137e68c02d540p16282bjsn2f745c53ff8"
         })
 
         //Endpoint.
