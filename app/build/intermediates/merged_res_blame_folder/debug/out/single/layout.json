@@ -32,6 +32,10 @@
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_main2.xml"
     },
     {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_animation.xml",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_animation.xml"
+    },
+    {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_cast.xml",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_movie_cast.xml"
     }

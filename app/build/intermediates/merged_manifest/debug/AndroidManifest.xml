@@ -23,6 +23,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Android_Ip_1" >
         <activity
+            android:name="com.moringaschool.android_ip_1.Animation"
+            android:exported="false" />
+        <activity
             android:name="com.moringaschool.android_ip_1.UI.WelcomeActivity"
             android:exported="true" >
             <intent-filter>

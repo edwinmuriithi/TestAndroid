@@ -644,6 +644,23 @@ attr listPreferredItemPaddingRight
 attr listPreferredItemPaddingStart
 attr logo
 attr logoDescription
+attr lottieAnimationViewStyle
+attr lottie_autoPlay
+attr lottie_cacheComposition
+attr lottie_colorFilter
+attr lottie_enableMergePathsForKitKatAndAbove
+attr lottie_fallbackRes
+attr lottie_fileName
+attr lottie_imageAssetsFolder
+attr lottie_loop
+attr lottie_progress
+attr lottie_rawRes
+attr lottie_renderMode
+attr lottie_repeatCount
+attr lottie_repeatMode
+attr lottie_scale
+attr lottie_speed
+attr lottie_url
 attr materialAlertDialogBodyTextStyle
 attr materialAlertDialogTheme
 attr materialAlertDialogTitleIconStyle
@@ -1998,6 +2015,7 @@ id animateToStart
 id antiClockwise
 id anticipate
 id app_bar
+id appname
 id arc
 id asConfigured
 id async
@@ -2005,6 +2023,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id automatic
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2129,6 +2148,7 @@ id group_divider
 id grouping
 id groups
 id guideline
+id hardware
 id header_title
 id hideable
 id home
@@ -2146,7 +2166,6 @@ id ignoreRequest
 id image
 id imageView
 id imageView2
-id imageView3
 id imageView5
 id imageView6
 id immediateStop
@@ -2175,6 +2194,8 @@ id line3
 id linear
 id listMode
 id list_item
+id lottie
+id lottie_layer_name
 id masked
 id match_constraint
 id match_parent
@@ -2273,12 +2294,13 @@ id profile
 id profileBtn
 id profilePicture
 id profileTextView
-id progressBar
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
+id restart
+id reverse
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2327,6 +2349,7 @@ id snackbar_action
 id snackbar_text
 id snap
 id snapMargins
+id software
 id south
 id spacer
 id special_effects_controller_view_tag
@@ -2383,7 +2406,6 @@ id textStart
 id textTop
 id textView
 id textView17
-id textView2
 id textView3
 id textView5
 id textView8
@@ -2524,6 +2546,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_animation
 layout activity_details
 layout activity_login
 layout activity_main2
@@ -2633,6 +2656,10 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap logo
 plurals mtrl_badge_content_description
+raw health
+raw loading
+raw search1
+raw user
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -3578,6 +3605,7 @@ styleable LinearLayoutCompat_Layout android_layout_gravity android_layout_width 
 styleable LinearProgressIndicator indeterminateAnimationType indicatorDirectionLinear
 styleable ListPopupWindow android_dropDownHorizontalOffset android_dropDownVerticalOffset
 styleable LoadingImageView circleCrop imageAspectRatio imageAspectRatioAdjust
+styleable LottieAnimationView lottie_autoPlay lottie_cacheComposition lottie_colorFilter lottie_enableMergePathsForKitKatAndAbove lottie_fallbackRes lottie_fileName lottie_imageAssetsFolder lottie_loop lottie_progress lottie_rawRes lottie_renderMode lottie_repeatCount lottie_repeatMode lottie_scale lottie_speed lottie_url
 styleable MaterialAlertDialog backgroundInsetBottom backgroundInsetEnd backgroundInsetStart backgroundInsetTop
 styleable MaterialAlertDialogTheme materialAlertDialogBodyTextStyle materialAlertDialogTheme materialAlertDialogTitleIconStyle materialAlertDialogTitlePanelStyle materialAlertDialogTitleTextStyle
 styleable MaterialAutoCompleteTextView android_inputType

@@ -18,6 +18,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.moringaschool.android_ip_1.Animation;
 import com.moringaschool.android_ip_1.R;
 
 import butterknife.BindView;
@@ -55,7 +56,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
                 if (firebaseUser != null) {
 
-                    Intent intent = new Intent(LoginActivity.this, MovieSearchActivity.class);
+                    Intent intent = new Intent(LoginActivity.this, Animation.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(intent);
                     finish();

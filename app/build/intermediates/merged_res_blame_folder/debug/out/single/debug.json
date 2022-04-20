@@ -44,6 +44,10 @@
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/drawable/news2.jpg"
     },
     {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/layout_activity_animation.xml.flat",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_animation.xml"
+    },
+    {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/drawable-xxhdpi_profile.png.flat",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/drawable-xxhdpi/profile.png"
     },
@@ -128,6 +132,10 @@
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_welcome.xml"
     },
     {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/raw_loading.json.flat",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/raw/loading.json"
+    },
+    {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_sign_up.xml"
     },
@@ -154,6 +162,10 @@
     {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/drawable_news3_sm.jpg.flat",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/drawable/news3_sm.jpg"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/raw_search1.json.flat",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/raw/search1.json"
     },
     {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/drawable-xxhdpi_bottom_btn4.png.flat",
@@ -204,6 +216,10 @@
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/drawable-xhdpi/bottom_btn3.png"
     },
     {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/raw_user.json.flat",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/raw/user.json"
+    },
+    {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/drawable_search_back.xml.flat",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/drawable/search_back.xml"
     },
@@ -250,6 +266,10 @@
     {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/layout_activity_movie_cast.xml.flat",
         "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/layout/activity_movie_cast.xml"
+    },
+    {
+        "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/raw_health.json.flat",
+        "source": "/home/muriithi/Downloads/android/HealthCare/app/src/main/res/raw/health.json"
     },
     {
         "merged": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/merged_res/debug/drawable_profile.png.flat",

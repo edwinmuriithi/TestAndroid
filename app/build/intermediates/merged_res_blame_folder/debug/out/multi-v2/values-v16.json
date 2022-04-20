@@ -4,7 +4,7 @@
             "outputFile": "/home/muriithi/Downloads/android/HealthCare/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/muriithi/.gradle/caches/transforms-3/8fff248dbe0397cca10a959cecdafd82/transformed/core-1.7.0/res/values-v16/values-v16.xml",
+                    "source": "/home/muriithi/.gradle/caches/transforms-3/390de601e85ef6d40038e6a5ebd9868c/transformed/core-1.7.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/muriithi/.gradle/caches/transforms-3/10156c2a08ae00d705fbed3317280574/transformed/appcompat-1.4.0/res/values-v16/values-v16.xml",
+                    "source": "/home/muriithi/.gradle/caches/transforms-3/10fb6aea2978ad2598ea5f3d490648a2/transformed/appcompat-1.4.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
