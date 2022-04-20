@@ -33,236 +33,235 @@
 21-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:11:9-54
 22        android:supportsRtl="true"
 22-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:12:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.Android_Ip_1" >
-24-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:13:9-50
-25        <activity
-25-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:14:9-16:40
-26            android:name="com.moringaschool.android_ip_1.Animation"
-26-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:15:13-38
-27            android:exported="false" />
-27-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:16:13-37
-28        <activity
-28-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:17:9-25:20
-29            android:name="com.moringaschool.android_ip_1.UI.WelcomeActivity"
-29-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:18:13-47
-30            android:exported="true" >
-30-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:19:13-36
-31            <intent-filter>
-31-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:20:13-24:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:21:17-69
-32-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:21:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:23:17-77
-34-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:23:27-74
-35            </intent-filter>
-36        </activity>
-37        <activity android:name="com.moringaschool.android_ip_1.UI.SignUpActivity" />
-37-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:26:9-55
-37-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:26:19-52
-38        <activity android:name="com.moringaschool.android_ip_1.UI.LoginActivity" />
-38-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:27:9-54
-38-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:27:19-51
-39        <activity android:name="com.moringaschool.android_ip_1.UI.MovieCastActivity" />
-39-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:28:9-58
-39-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:28:19-55
-40        <activity android:name="com.moringaschool.android_ip_1.UI.DetailsActivity" />
-40-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:29:9-56
-40-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:29:19-53
-41        <activity android:name="com.moringaschool.android_ip_1.UI.MovieSearchActivity" />
-41-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:30:9-60
-41-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:30:19-57
-42        <activity android:name="com.moringaschool.android_ip_1.UI.MainActivity2" />
-42-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:31:9-54
-42-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:31:19-51
-43
-44        <provider
-44-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-45            android:name="com.squareup.picasso.PicassoProvider"
-45-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-46            android:authorities="com.moringaschool.android_ip_1.com.squareup.picasso"
-46-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-47            android:exported="false" />
-47-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-48
-49        <activity
-49-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:27:9-34:50
-50            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-50-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:28:13-85
-51            android:excludeFromRecents="true"
-51-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:29:13-46
-52            android:exported="true"
-52-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:30:13-36
-53            android:launchMode="singleTask"
-53-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:31:13-44
-54            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-54-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:32:13-102
-55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-55-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:33:13-72
-56        <activity
-56-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:35:9-52:20
-57            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-57-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:36:13-80
-58            android:excludeFromRecents="true"
-58-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:37:13-46
-59            android:exported="true"
-59-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:38:13-36
-60            android:launchMode="singleTask"
-60-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:39:13-44
-61            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-61-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:40:13-72
-62            <intent-filter>
-62-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:41:13-51:29
-63                <action android:name="android.intent.action.VIEW" />
-63-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:17-69
-63-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:25-66
-64
-65                <category android:name="android.intent.category.DEFAULT" />
-65-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
-65-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
-66                <category android:name="android.intent.category.BROWSABLE" />
-66-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:17-78
-66-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:27-75
-67
-68                <data
-68-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:47:17-50:51
-69                    android:host="firebase.auth"
-69-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:48:21-49
-70                    android:path="/"
-70-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:49:21-37
-71                    android:scheme="genericidp" />
-71-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:50:21-48
-72            </intent-filter>
-73        </activity>
-74        <activity
-74-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:53:9-70:20
-75            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-75-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:54:13-79
-76            android:excludeFromRecents="true"
-76-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:55:13-46
-77            android:exported="true"
-77-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:56:13-36
-78            android:launchMode="singleTask"
-78-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:57:13-44
-79            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-79-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:58:13-72
-80            <intent-filter>
-80-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:59:13-69:29
-81                <action android:name="android.intent.action.VIEW" />
-81-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:17-69
-81-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:25-66
-82
-83                <category android:name="android.intent.category.DEFAULT" />
-83-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
-83-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
-84                <category android:name="android.intent.category.BROWSABLE" />
-84-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:17-78
-84-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:27-75
-85
-86                <data
-86-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:47:17-50:51
-87                    android:host="firebase.auth"
-87-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:48:21-49
-88                    android:path="/"
-88-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:49:21-37
-89                    android:scheme="recaptcha" />
-89-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:50:21-48
-90            </intent-filter>
-91        </activity>
-92
-93        <service
-93-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:72:9-81:19
-94            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
-94-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:73:13-101
-95            android:enabled="true"
-95-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:74:13-35
-96            android:exported="false" >
-96-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:75:13-37
-97            <intent-filter>
-97-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:76:13-80:29
-98                <action android:name="com.google.firebase.auth.api.gms.service.START" />
-98-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:77:17-89
-98-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:77:25-86
-99
-100                <category android:name="android.intent.category.DEFAULT" />
-100-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
-100-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
-101            </intent-filter>
-102        </service>
-103        <service
-103-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:82:9-88:19
-104            android:name="com.google.firebase.components.ComponentDiscoveryService"
-104-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:83:13-84
-105            android:directBootAware="true"
-105-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
-106            android:exported="false" >
-106-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:84:13-37
-107            <meta-data
-107-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:85:13-87:85
-108                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-108-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:86:17-109
-109                android:value="com.google.firebase.components.ComponentRegistrar" />
-109-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:87:17-82
-110            <meta-data
-110-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:32:13-34:85
-111                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-111-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:33:17-109
-112                android:value="com.google.firebase.components.ComponentRegistrar" />
-112-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:34:17-82
-113        </service>
-114
-115        <activity
-115-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
-116            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-116-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-117            android:exported="false"
-117-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
-118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-118-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
-119
-120        <provider
-120-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
-121            android:name="com.google.firebase.provider.FirebaseInitProvider"
-121-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
-122            android:authorities="com.moringaschool.android_ip_1.firebaseinitprovider"
-122-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
-123            android:directBootAware="true"
-123-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
-124            android:exported="false"
-124-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
-125            android:initOrder="100" />
-125-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
-126
-127        <meta-data
-127-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
-128            android:name="com.google.android.gms.version"
-128-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
-129            android:value="@integer/google_play_services_version" />
-129-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
-130
-131        <provider
-131-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-132            android:name="androidx.startup.InitializationProvider"
-132-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-133            android:authorities="com.moringaschool.android_ip_1.androidx-startup"
-133-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
-134            android:exported="false" >
-134-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
-135            <meta-data
-135-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-136                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-136-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
-137                android:value="androidx.startup" />
-137-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
-138            <meta-data
-138-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-139                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-139-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-140                android:value="androidx.startup" />
-140-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-141        </provider>
-142    </application>
-143
-144</manifest>
+23        android:theme="@style/Theme.Android_Ip_1" >
+23-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:13:9-50
+24        <activity
+24-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:14:9-16:40
+25            android:name="com.moringaschool.android_ip_1.Animation"
+25-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:15:13-38
+26            android:exported="false" />
+26-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:16:13-37
+27        <activity
+27-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:17:9-25:20
+28            android:name="com.moringaschool.android_ip_1.UI.WelcomeActivity"
+28-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:18:13-47
+29            android:exported="true" >
+29-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:19:13-36
+30            <intent-filter>
+30-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:20:13-24:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:21:17-69
+31-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:21:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:23:17-77
+33-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:23:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.moringaschool.android_ip_1.UI.SignUpActivity" />
+36-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:26:9-55
+36-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:26:19-52
+37        <activity android:name="com.moringaschool.android_ip_1.UI.LoginActivity" />
+37-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:27:9-54
+37-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:27:19-51
+38        <activity android:name="com.moringaschool.android_ip_1.UI.MovieCastActivity" />
+38-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:28:9-58
+38-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:28:19-55
+39        <activity android:name="com.moringaschool.android_ip_1.UI.DetailsActivity" />
+39-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:29:9-56
+39-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:29:19-53
+40        <activity android:name="com.moringaschool.android_ip_1.UI.MovieSearchActivity" />
+40-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:30:9-60
+40-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:30:19-57
+41        <activity android:name="com.moringaschool.android_ip_1.UI.MainActivity2" />
+41-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:31:9-54
+41-->/home/muriithi/Downloads/android/HealthCare/app/src/main/AndroidManifest.xml:31:19-51
+42
+43        <provider
+43-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+44            android:name="com.squareup.picasso.PicassoProvider"
+44-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+45            android:authorities="com.moringaschool.android_ip_1.com.squareup.picasso"
+45-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+46            android:exported="false" />
+46-->[com.squareup.picasso:picasso:2.71828] /home/muriithi/.gradle/caches/transforms-3/b6f58c0eb8473d3a831818083fd9f7f1/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+47
+48        <activity
+48-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:27:9-34:50
+49            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+49-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:28:13-85
+50            android:excludeFromRecents="true"
+50-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:29:13-46
+51            android:exported="true"
+51-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:30:13-36
+52            android:launchMode="singleTask"
+52-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:31:13-44
+53            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+53-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:32:13-102
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:33:13-72
+55        <activity
+55-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:35:9-52:20
+56            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+56-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:36:13-80
+57            android:excludeFromRecents="true"
+57-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:37:13-46
+58            android:exported="true"
+58-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:38:13-36
+59            android:launchMode="singleTask"
+59-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:39:13-44
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+60-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:40:13-72
+61            <intent-filter>
+61-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:41:13-51:29
+62                <action android:name="android.intent.action.VIEW" />
+62-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:17-69
+62-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:25-66
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
+64-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:17-78
+65-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:27-75
+66
+67                <data
+67-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:47:17-50:51
+68                    android:host="firebase.auth"
+68-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:48:21-49
+69                    android:path="/"
+69-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:49:21-37
+70                    android:scheme="genericidp" />
+70-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:50:21-48
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:53:9-70:20
+74            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+74-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:54:13-79
+75            android:excludeFromRecents="true"
+75-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:55:13-46
+76            android:exported="true"
+76-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:56:13-36
+77            android:launchMode="singleTask"
+77-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:57:13-44
+78            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+78-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:58:13-72
+79            <intent-filter>
+79-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:59:13-69:29
+80                <action android:name="android.intent.action.VIEW" />
+80-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:17-69
+80-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:42:25-66
+81
+82                <category android:name="android.intent.category.DEFAULT" />
+82-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
+82-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
+83                <category android:name="android.intent.category.BROWSABLE" />
+83-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:17-78
+83-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:45:27-75
+84
+85                <data
+85-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:47:17-50:51
+86                    android:host="firebase.auth"
+86-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:48:21-49
+87                    android:path="/"
+87-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:49:21-37
+88                    android:scheme="recaptcha" />
+88-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:50:21-48
+89            </intent-filter>
+90        </activity>
+91
+92        <service
+92-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:72:9-81:19
+93            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+93-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:73:13-101
+94            android:enabled="true"
+94-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:74:13-35
+95            android:exported="false" >
+95-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:75:13-37
+96            <intent-filter>
+96-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:76:13-80:29
+97                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+97-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:77:17-89
+97-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:77:25-86
+98
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:17-76
+99-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:44:27-73
+100            </intent-filter>
+101        </service>
+102        <service
+102-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:82:9-88:19
+103            android:name="com.google.firebase.components.ComponentDiscoveryService"
+103-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:83:13-84
+104            android:directBootAware="true"
+104-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:35:13-43
+105            android:exported="false" >
+105-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:84:13-37
+106            <meta-data
+106-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:85:13-87:85
+107                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+107-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:86:17-109
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-auth:20.0.0] /home/muriithi/.gradle/caches/transforms-3/7e35faee35874667cd2acb2b66980b78/transformed/jetified-firebase-auth-20.0.0/AndroidManifest.xml:87:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:32:13-34:85
+110                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+110-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:33:17-109
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-database:19.5.1] /home/muriithi/.gradle/caches/transforms-3/2ed2ee9942f243ac642829cb8d5713c5/transformed/jetified-firebase-database-19.5.1/AndroidManifest.xml:34:17-82
+112        </service>
+113
+114        <activity
+114-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+115            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+115-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+116            android:exported="false"
+116-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+117-->[com.google.android.gms:play-services-base:17.1.0] /home/muriithi/.gradle/caches/transforms-3/5b8ae72ac47a6a06cf1e4f6e5e20284f/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+118
+119        <provider
+119-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:26:9-31:39
+120            android:name="com.google.firebase.provider.FirebaseInitProvider"
+120-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:27:13-77
+121            android:authorities="com.moringaschool.android_ip_1.firebaseinitprovider"
+121-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:28:13-72
+122            android:directBootAware="true"
+122-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:29:13-43
+123            android:exported="false"
+123-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:30:13-37
+124            android:initOrder="100" />
+124-->[com.google.firebase:firebase-common:19.3.1] /home/muriithi/.gradle/caches/transforms-3/9df00b95854fd8996fdce09076019780/transformed/jetified-firebase-common-19.3.1/AndroidManifest.xml:31:13-36
+125
+126        <meta-data
+126-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:23:9-25:69
+127            android:name="com.google.android.gms.version"
+127-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:24:13-58
+128            android:value="@integer/google_play_services_version" />
+128-->[com.google.android.gms:play-services-basement:17.1.0] /home/muriithi/.gradle/caches/transforms-3/e72587b7785ac8c1e09b270cfe979551/transformed/jetified-play-services-basement-17.1.0/AndroidManifest.xml:25:13-66
+129
+130        <provider
+130-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+131            android:name="androidx.startup.InitializationProvider"
+131-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+132            android:authorities="com.moringaschool.android_ip_1.androidx-startup"
+132-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+133            android:exported="false" >
+133-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+134            <meta-data
+134-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+135                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+135-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+136                android:value="androidx.startup" />
+136-->[androidx.emoji2:emoji2:1.0.0] /home/muriithi/.gradle/caches/transforms-3/c29e022351109047163407d5f76ec3b3/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+137            <meta-data
+137-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+138                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+138-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+139                android:value="androidx.startup" />
+139-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/muriithi/.gradle/caches/transforms-3/78879f3e0c3cb83993e5e0649bb045cc/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+140        </provider>
+141    </application>
+142
+143</manifest>
